@@ -5,7 +5,7 @@ const typeDefs = gql`
     name: String
     birthday: String
     occupation: [String]
-    img: String
+    image: String
     status: String
     nickname: String
     appearance: [Int]
